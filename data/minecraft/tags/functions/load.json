@@ -1,0 +1,7 @@
+{
+	"values": [
+		"apo:init_death_tracker",
+		"apo:init_hour_tracker",
+		"apo:init_gamerules"
+	]
+}

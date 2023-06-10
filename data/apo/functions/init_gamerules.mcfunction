@@ -1,0 +1,3 @@
+gamerule playersSleepingPercentage 33
+gamerule keepInventory true
+gamerule doFireTick false
